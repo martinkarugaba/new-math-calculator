@@ -41,7 +41,6 @@ After you're finished please remove all the comments and instructions!
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -54,15 +53,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [math_magicians] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[math_magicians]** is an app that allows you to calculate standard arithmetic, that is add, subtract, multiply and divide.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -75,12 +70,14 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Add]**
+- Find the sum of two numbers
 - **[Subtract]**
+- Find the sum of two numbers
 - **[Multiply]**
+- Find the product of two or more numbers
 - **[Divide]**
+- Divide a number by another number
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +85,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://new-math-calc.netlify.app/)
 
@@ -98,7 +94,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<!--> Describe how a new developer could make use of your project.-->
 
 To get a local copy up and running, follow these steps.
 
@@ -153,25 +149,12 @@ Example command:
 ```
 --->
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -185,7 +168,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+<!--> Describe 1 - 3 features you will add to the project.-->
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -207,9 +190,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, write tome via my email or via my social media handles listed in the author's section above.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,8 +205,6 @@ I would like to thank Microverse for guiding me while buildin this project.
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
